@@ -1,4 +1,1 @@
-Progetto di laboratorio per l'univesità di pisa.
-Realizzazione di un sistema di gestione delle prenotazioni per un'ipotetic agenzia di taxi basato su una base di dati oracle.
-Ho preso parte alla scrittura del codice del gruppo2 riguardante le opreazioni sui taxi, in particolare visualizzaTaxi, visualizzaUnTaxi, modificaTaxi.
-Inoltre ho preso parte al gruppo di interfaccia grafica.
+Laboratory project for the University of Pisa. Development of a reservation management system for a hypothetical taxi agency, based on an Oracle database. I contributed to the implementation of the code for Group 2, specifically the operations related to taxis, including viewTaxis, viewSingleTaxi, and editTaxi. Additionally, I participated in the graphical user interface development team.
